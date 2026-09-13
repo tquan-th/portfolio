@@ -17,6 +17,7 @@ I have a Bachelors in Mechanical Engineering from the Stevens Institute of Techn
 
 ## Robotics
 * TurtleBot Snow Melter
+* Robot Arm Training
 * 
 
 ## Open Soure Contributions
