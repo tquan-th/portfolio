@@ -6,7 +6,7 @@ I have a Bachelors in Mechanical Engineering from the Stevens Institute of Techn
 # Projects Directory
 ## Hardware
 * [Solar-Powered IoT Soil Moisture Monitor](/hardware.md)
-* Low-Cost Cellular IoT Remote Camera
+* [Low-Cost IoT Camera](/homecam.md)
 * Live Room Volume Gauge
 * Home Lab Setup
 * Injection Molded Casio F91W
