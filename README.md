@@ -13,6 +13,7 @@ I have a Bachelors in Mechanical Engineering from the Stevens Institute of Techn
 * USB-C Male-to-Male Non-Standard PCB
 
 ## Software
+* Live AMI (Average Median Income) Map of NYC
 * Landmark Preservation Timeline of NYC
 
 ## Robotics
