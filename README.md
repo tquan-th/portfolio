@@ -7,7 +7,7 @@ I received my Bachelors degree in Mechanical Engineering from the Stevens Instit
 ## Hardware System Design
 * [Solar-Powered IoT Soil Moisture Monitor](/soil.md)
 * [Low-Cost IoT Camera](/homecam.md)
-* Injection Molded Casio F91W
+* [Injection Molded Casio F91W Case](/f91mold.md)
 * Test Fixture for USB-C Bidirectional PD Charging Cable
 * [Home Lab Setup](/homelab.md)
 
