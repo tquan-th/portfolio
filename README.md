@@ -4,13 +4,18 @@ Welcome to my portfolio! This is a living document for personal projects related
 I received my Bachelors degree in Mechanical Engineering from the Stevens Institute of Technology and a Masters in Computer Engineering from Dartmouth College. I'm also an alumn of the FIRST Robotics Competition and have been mentoring my former team for the past 10 years. As the world becomes more connected and information becomes more accessible, I teach my students to embrace a multidisciplinary mindset dedicated to lifelong learning.
 
 # Projects Directory
-## Hardware
+## Hardware System Design
 * [Solar-Powered IoT Soil Moisture Monitor](/soil.md)
 * [Low-Cost IoT Camera](/homecam.md)
 * Live Room Volume Gauge
 * Home Lab Setup
 * Injection Molded Casio F91W
+
+## Hardware Design (PCB's)
 * USB-C Male-to-Male Non-Standard PCB
+* Programming Fixture for Personal Area Network device
+* Programming and QC Board for Audio Device
+* 
 
 ## Software
 * Live AMI (Average Median Income) Map of NYC
