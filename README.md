@@ -5,7 +5,7 @@ I have a Bachelors in Mechanical Engineering from the Stevens Institute of Techn
 
 # Projects Directory
 ## Hardware
-* [Solar-Powered IoT Soil Moisture Monitor](/hardware.md)
+* [Solar-Powered IoT Soil Moisture Monitor](/soil.md)
 * [Low-Cost IoT Camera](/homecam.md)
 * Live Room Volume Gauge
 * Home Lab Setup
@@ -17,9 +17,9 @@ I have a Bachelors in Mechanical Engineering from the Stevens Institute of Techn
 * Landmark Preservation Timeline of NYC
 
 ## Robotics
-* TurtleBot Snow Melter
+* TurtleBot Training
 * Robot Arm Training
-* 
+* FIRST Robotics Mentoring
 
 ## Open Soure Contributions
 * Flipper One Hardware Development
