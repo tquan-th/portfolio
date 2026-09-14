@@ -1,1 +1,0 @@
-# Hardware Projects Directory
