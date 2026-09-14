@@ -8,11 +8,12 @@ I received my Bachelors degree in Mechanical Engineering from the Stevens Instit
 * [Solar-Powered IoT Soil Moisture Monitor](/soil.md)
 * [Low-Cost IoT Camera](/homecam.md)
 * [Injection Molded Casio F-91W Case](/f91mold.md)
-* Test Fixture for USB-C Bidirectional PD Charging Cable
+* [Test Fixture for USB-C Bidirectional PD Charger](/pd.md)
+* [Test Fixture for Software-Defined Radio (SDR)](/sdrqc.md)
 * [Home Lab Setup](/homelab.md)
 
 ## Hardware Design (PCB's)
-* USB-C Male-to-Male Breakout
+* [USB-C Male-to-Male Breakout](/usbc.md)
 * Test Board for Personal Network Device
 * Test Board for Audio Push-to-Talk Device
 * Test Board for Embedded Computer
