@@ -2,6 +2,11 @@
 ## Purpose
 I wanted to build an affordable remote camera for home use when I'm away. Using spare parts, open source software and a hotspot, this solution bypasses proprietary applications and subscriptions services at a fraction of the cost.
 
+## Requirements
+* Securely stream a camera feed real-time
+* Allow only authorized users to access the feed
+* Minimal setup
+
 ### Bill of Materials
 * Raspberry Pi Model 3B
 * Raspberry Pi Camera V1.3 (5MP)
@@ -12,7 +17,7 @@ I wanted to build an affordable remote camera for home use when I'm away. Using 
 * 5V PSU
 
 ### Backend
-The Raspberry Pi acts as the local camera host and Tailscale VPN access point for approved users to view the camera feed. A fan and/or heatsink is highly recommended for heat dissipation as the camera stream will remain on when the Pi is powered. MediaMTX is a lightweight media server that broadcasts the camera stream over the Pi's Tailscale IP. To minimize power consumption and form factor, the system runs headless and starts the MediaMTX script on boot via a systemd service file.
+The Raspberry Pi acts as the local camera host and Tailscale VPN access point for approved users to view the camera feed. A fan and/or heatsink is highly recommended for heat dissipation as the camera stream will remain on when the Pi is powered. MediaMTX is a lightweight media server that broadcasts the camera stream over the Pi's Tailscale IP. To minimize power consumption and form factor, the system runs headless and starts the MediaMTX script on boot via a systemd service file. In the 
 
 ![Alt text](media/homecam1.png)
 
