@@ -3,9 +3,9 @@
 ## Capabilities
 
 ### 3D Printing
-* Prusa i3 MK3S
-* Raise3D Pro2 Plus
-* Elegoo Mars 2 Pro
+* Prusa i3 MK3S (FDM)
+* Raise3D Pro2 Plus (large format FDM)
+* Elegoo Mars 2 Pro (Resin)
 
 ### Machining & Manufacturing
 * X-Carve CNC Router
