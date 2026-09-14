@@ -19,7 +19,7 @@ I have a Bachelors in Mechanical Engineering from the Stevens Institute of Techn
 ## Robotics
 * TurtleBot Training
 * Robot Arm Training
-* FIRST Robotics Mentoring
+* [FIRST Robotics Competition](/frc.md)
 
 ## Open Soure Contributions
 * Flipper One Hardware Development
