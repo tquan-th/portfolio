@@ -9,7 +9,7 @@ I received my Bachelors degree in Mechanical Engineering from the Stevens Instit
 * [Low-Cost IoT Camera](/homecam.md)
 * Injection Molded Casio F91W
 * Test Fixture for USB-C Bidirectional PD Charging Cable
-* Home Lab Setup
+* [Home Lab Setup](/homelab.md)
 
 ## Hardware Design (PCB's)
 * USB-C Male-to-Male Breakout
