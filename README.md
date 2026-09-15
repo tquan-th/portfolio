@@ -8,18 +8,20 @@ The following projects reflect a personal philosophy of learning by doing, and d
 Projects that integrate off-the-shelf and custom hardware, as to not recreate the wheel:
 * [Solar-Powered IoT Soil Moisture Monitor](/soil.md)
 * [Low-Cost IoT Camera](/systems/homecam.md)
-* [Injection Molded Casio F-91W Case](/f91mold.md)
 * [Test Fixture for USB-C Bidirectional PD Charger](/pd.md)
 * [Test Fixture for Software-Defined Radio (SDR)](/sdrqc.md)
 * [Home Lab Setup](/homelab.md)
 
-## Hardware Design
+## Electrical Engineering
 Custom PCB designs used for programming, interfacing and mixed-signal QC of devices:
 * [USB-C Male-to-Male Breakout](/usbc.md)
 * Test Board for Personal Network Device
 * Test Board for Push-to-Talk Device
 * Test Board for Embedded Computer
 * Mixed Signal Breakout Adapter
+
+## Mechanical Engineering
+* [Injection Molded Casio F-91W Case](/f91mold.md)
 
 ## Software
 Experimentation with data visualizations using NYC Open Data:
