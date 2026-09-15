@@ -21,7 +21,7 @@ Custom PCB designs used for programming, interfacing and mixed-signal QC of devi
 * Mixed Signal Breakout Adapter
 
 ## Mechanical Engineering
-* [Injection Molded Casio F-91W Case](/f91mold.md)
+* [Injection Molded Casio F-91W Case](/me/f91mold.md)
 
 ## Software
 Experimentation with data visualizations using NYC Open Data:
