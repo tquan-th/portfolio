@@ -1,5 +1,5 @@
 # About Me
-I hold a Masters in Computer Engineering from Dartmouth College and a Bachelors degree in Mechanical Engineering from the Stevens Institute of Technology. I'm also an alumn of the FIRST Robotics Competition and have been mentoring my former team for the past 10 years. As the world becomes more connected and information becomes more accessible, I teach my students to embrace a multidisciplinary mindset dedicated to lifelong learning.
+I hold a Masters in Computer Engineering from Dartmouth College and a Bachelors degree in Mechanical Engineering from the Stevens Institute of Technology. I'm also an alumn of the FIRST Robotics program and have been mentoring my former high school team for the past decade.
 
 # Projects Directory
 The following projects reflect a personal philosophy of learning by doing, and doing to help others. My interests span from system level design down to individual mechanical, electrical and software projects. At this stage in my career, I see myself as a full-stack electromechanical engineer capable of diving into technical and logistical details. 
