@@ -30,7 +30,7 @@ Experimentation with data visualizations using NYC Open Data:
 
 ## Robotics
 Personal and volunteer robotics projects:
-* TurtleBot Training
+* [TurtleBot Training](/robotics/turtlebot4.md)
 * Robot Arm Training
 * [FIRST Robotics Competition](/frc.md)
 
