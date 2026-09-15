@@ -5,6 +5,7 @@ I hold a Masters in Computer Engineering from Dartmouth College and a Bachelors 
 The following projects reflect a personal philosophy of learning by doing, and doing to help others. My interests span from system level design down to individual mechanical, electrical and software projects. At this stage in my career, I see myself as a hardware generalist capable of diving into technical and logistical details. 
 
 ## Hardware System Design
+Projects that integrate off-the-shelf and custom hardware, as to not recreate the wheel:
 * [Solar-Powered IoT Soil Moisture Monitor](/soil.md)
 * [Low-Cost IoT Camera](/homecam.md)
 * [Injection Molded Casio F-91W Case](/f91mold.md)
@@ -12,7 +13,8 @@ The following projects reflect a personal philosophy of learning by doing, and d
 * [Test Fixture for Software-Defined Radio (SDR)](/sdrqc.md)
 * [Home Lab Setup](/homelab.md)
 
-## Hardware Design (PCB's)
+## Hardware Design
+Custom PCB designs used for programming, interfacing and mixed-signal QC of devices:
 * [USB-C Male-to-Male Breakout](/usbc.md)
 * Test Board for Personal Network Device
 * Test Board for Audio Push-to-Talk Device
@@ -20,15 +22,18 @@ The following projects reflect a personal philosophy of learning by doing, and d
 * Mixed Signal Breakout Adapter
 
 ## Software
+Experimentation with data visualizations using NYC Open Data:
 * Live AMI (Average Median Income) Map of NYC
 * Landmark Preservation Timeline of NYC
 
 ## Robotics
+Personal and volunteer robotics projects"
 * TurtleBot Training
 * Robot Arm Training
 * [FIRST Robotics Competition](/frc.md)
 
-## Open Soure Contributions
+## Open Source
+Contributions made to open source projects:
 * Flipper One Hardware Development
 
 
