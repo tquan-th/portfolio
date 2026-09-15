@@ -14,7 +14,7 @@ Projects that integrate off-the-shelf and custom hardware, as to not recreate th
 
 ## Electrical Engineering
 Custom PCB designs used for programming, interfacing and mixed-signal QC of devices:
-* [USB-C Male-to-Male Breakout](/usbc.md)
+* [USB-C Male-to-Male Breakout](/ee/usbc.md)
 * Test Board for Personal Network Device
 * Test Board for Push-to-Talk Device
 * Test Board for Embedded Computer
