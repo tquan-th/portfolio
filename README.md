@@ -6,11 +6,11 @@ The following projects reflect a personal philosophy of learning by doing, and d
 
 ## Hardware System Design
 Projects that integrate off-the-shelf and custom hardware, as to not recreate the wheel:
-* [Solar-Powered IoT Soil Moisture Monitor](/soil.md)
+* [Solar-Powered IoT Soil Moisture Monitor](/systems/soil.md)
 * [Low-Cost IoT Camera](/systems/homecam.md)
 * [Test Fixture for USB-C Bidirectional PD Charger](/systems/pd.md)
 * [Test Fixture for Software-Defined Radio (SDR)](/sdrqc.md)
-* [Home Lab Setup](/homelab.md)
+* [Home Lab Setup](/systems/homelab.md)
 
 ## Electrical Engineering
 Custom PCB designs used for programming, interfacing and mixed-signal QC of devices:
