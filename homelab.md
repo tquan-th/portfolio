@@ -1,5 +1,8 @@
 # Home Lab Setup
 
+## Purpose
+I'm experienced in a range of additive and subtractive manufacturing technologies, as well as electronics tools. The setup of my home lab is critical to the development and execution of projects.
+
 ## Capabilities
 
 ### 3D Printing
