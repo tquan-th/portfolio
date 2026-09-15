@@ -23,11 +23,11 @@ Custom PCB designs used for programming, interfacing and mixed-signal QC of devi
 
 ## Software
 Experimentation with data visualizations using NYC Open Data:
-* Live AMI (Average Median Income) Map of NYC
-* Landmark Preservation Timeline of NYC
+* Interactive AMI (Average Median Income) Map of NYC
+* Interactive Landmark Preservation Timeline of NYC
 
 ## Robotics
-Personal and volunteer robotics projects"
+Personal and volunteer robotics projects:
 * TurtleBot Training
 * Robot Arm Training
 * [FIRST Robotics Competition](/frc.md)
