@@ -36,7 +36,7 @@ Personal and volunteer robotics projects:
 
 ## Open Source
 Contributions made to open source projects:
-* Flipper One
+* [Flipper One](/opensource/flipperone.md)
 
 
 
