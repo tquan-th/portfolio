@@ -8,7 +8,7 @@ The following projects reflect a personal philosophy of learning by doing, and d
 Projects that integrate off-the-shelf and custom hardware, as to not recreate the wheel:
 * [Solar-Powered IoT Soil Moisture Monitor](/soil.md)
 * [Low-Cost IoT Camera](/systems/homecam.md)
-* [Test Fixture for USB-C Bidirectional PD Charger](/pd.md)
+* [Test Fixture for USB-C Bidirectional PD Charger](/systems/pd.md)
 * [Test Fixture for Software-Defined Radio (SDR)](/sdrqc.md)
 * [Home Lab Setup](/homelab.md)
 
