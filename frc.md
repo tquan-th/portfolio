@@ -1,5 +1,5 @@
 # FIRST Robotics Competition Mentoring (2017 - Present)
-The FIRST Robotics Competition is a high school-level robotics program aimed to give students hands-on experience in STEM. 
+The FIRST Robotics Competition is a high school-level robotics program aimed to give students hands-on experience in STEM. I have been a mentor of the FRC team 3204, based in Queens, NY for 10 years. By applying the engineering process in an educational environment, I develop my students to become the next generation of technical problem solvers and treat them as junior engineers. Check out our team [Instagram](https://www.instagram.com/tmla_robotics3204/) page for our robots over the years!
 
 
 ## 2026: REBUILT
@@ -13,7 +13,7 @@ The FIRST Robotics Competition is a high school-level robotics program aimed to 
 ## 2025: Reefscape
 ### Primary Mechanisms:
 * IR laser sensing for game piece detection
-* Brushless encoding with PID for position control of arm
+* Brushless motor encoding with PID for position control of end effector
 
 ### Team Achievements:
 
