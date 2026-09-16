@@ -38,5 +38,7 @@ Personal and volunteer robotics projects:
 Contributions made to open source projects:
 * [Flipper One](/opensource/flipperone.md)
 
+## [Project Ideas](/concepts/scratchpad.md)
+
 
 
