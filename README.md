@@ -1,7 +1,7 @@
 # About Me
 I hold a Masters in Computer Engineering from Dartmouth College and a Bachelors degree in Mechanical Engineering from the Stevens Institute of Technology. I'm also an alumn of the FIRST Robotics program and have been mentoring my former high school team for the past decade.
 
-At work, you'll find me moving between the labs and production floor trying to understand the full picture of the design, assembly and QC. This allows me to develop my systems with all parties in mind as I convert design validation and acceptance tests into scalable, production-ready tests.
+At work, you'll find me moving between the labs and production floor trying to understand the full picture of the design, assembly and QC.
 
 # Projects Directory
 The following projects reflect a personal philosophy of learning by doing, and doing to help others. My interests span from system level design down to individual mechanical, electrical and software projects. At this stage in my career, I see myself as a full-stack electromechanical engineer capable of diving into technical and logistical details. 
