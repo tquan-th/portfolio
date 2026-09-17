@@ -4,7 +4,7 @@ I hold a Masters in Computer Engineering from Dartmouth College and a Bachelors 
 At work, you'll find me moving between the labs and production floor trying to understand the full picture of the design, assembly and QC.
 
 # Projects Directory
-The following projects reflect a personal philosophy of learning by doing, and doing to help others. My interests span from system level design down to individual mechanical, electrical and software projects. At this stage in my career, I see myself as a full-stack electromechanical engineer capable of diving into technical and logistical details. 
+The following projects reflect a personal philosophy of learning by doing, and doing to help others. My interests span from system level design down to individual mechanical, electrical and software projects. At this stage in my career, I see myself as an engineering generalist capable of diving into technical and logistical details. 
 
 ## Hardware System Design
 Projects that integrate off-the-shelf and custom hardware, as to not recreate the wheel:
