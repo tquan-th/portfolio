@@ -1,5 +1,5 @@
 # Welcome!
-Welcome to my portfolio! This is a live page to log and track my projects. I enjoy designing and building practical systems that engage with any emerging technologies of interest.
+Welcome to my portfolio! This is a live page to track my projects. I enjoy designing and building practical systems that engage with any emerging technologies. Given my range of interest in this field, this page will never truly be finished, but it is an opportunity to document my journey.
 
 I hold a Masters in Computer Engineering from Dartmouth College and a Bachelors degree in Mechanical Engineering from the Stevens Institute of Technology. I'm also an alumn of the FIRST Robotics program and have been mentoring my former high school team for the past decade. At work, you'll find me moving between the labs and production floor trying to understand the full picture of the design, assembly and QC. Overall, I'm quite proactive about exploring new skillsets and encourage my students and mentees to do the same.
 
@@ -27,7 +27,7 @@ Custom PCB designs used for programming, interfacing and mixed-signal QC of devi
 
 ## Open Source
 Contributions made to open source projects:
-* [Flipper One](/opensource/flipperone.md)
+* [Flipper One Accessories](/opensource/flipperone.md)
 
 ## Software
 Experimentation with data visualizations using NYC Open Data:
