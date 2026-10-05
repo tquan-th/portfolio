@@ -29,11 +29,6 @@ Custom PCB designs used for programming, interfacing and mixed-signal QC of devi
 Contributions made to open source projects:
 * [Flipper One Accessories](/opensource/flipperone.md)
 
-## Software
-Experimentation with data visualizations using NYC Open Data:
-* Interactive AMI (Average Median Income) Map of NYC
-* Interactive Landmark Preservation Timeline of NYC
-
 ## Robotics
 Personal and volunteer robotics projects:
 * [TurtleBot Training](/robotics/turtlebot4.md)
