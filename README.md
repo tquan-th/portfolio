@@ -25,6 +25,10 @@ Custom PCB designs used for programming, interfacing and mixed-signal QC of devi
 ## Mechanical Engineering
 * [Injection Molded Casio F-91W Case](/me/f91mold.md)
 
+## Open Source
+Contributions made to open source projects:
+* [Flipper One](/opensource/flipperone.md)
+
 ## Software
 Experimentation with data visualizations using NYC Open Data:
 * Interactive AMI (Average Median Income) Map of NYC
@@ -36,9 +40,8 @@ Personal and volunteer robotics projects:
 * Robot Arm Training
 * [FIRST Robotics Competition](/frc.md)
 
-## Open Source
-Contributions made to open source projects:
-* [Flipper One](/opensource/flipperone.md)
+## Archive
+[Placeholder for a PDF upload of my undergrad class and internship portfolio]
 
 ## [Project Ideas](/concepts/scratchpad.md)
 
