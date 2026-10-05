@@ -1,3 +1,6 @@
+# Welcome!
+Welcome to my portfolio! This is a live page to log and track my engineering projects. I enjoy building practical systems that engage with any emerging technologies of interest. 
+
 # About Me
 I hold a Masters in Computer Engineering from Dartmouth College and a Bachelors degree in Mechanical Engineering from the Stevens Institute of Technology. I'm also an alumn of the FIRST Robotics program and have been mentoring my former high school team for the past decade.
 
