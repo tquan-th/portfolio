@@ -12,21 +12,23 @@ Projects that integrate off-the-shelf and custom hardware, as to not recreate th
 * [Test Fixture for Software-Defined Radio (SDR)](/sdrqc.md)
 * [Home Lab Setup](/systems/homelab.md)
 
-## Embedded Systems and IoT
-Projects involving custom configuration/firmware of a microcontroller or computer to interface with sensors and peripherals
+## Solo System Design Sprints (Embedded Systems and IoT)
+Solo projects that demonstrate full system development from component selection, programming (frontend and backend), testing and packaging.
 * [Solar-Powered IoT Soil Moisture Monitor](/systems/soil.md)
 * [Low-Cost IoT Camera](/systems/homecam.md)
 
 ## Electrical Engineering
 Custom PCB designs used for programming, interfacing and mixed-signal QC of devices:
 * [USB-C Male-to-Male Breakout](/ee/usbc.md)
-* Test Board for Personal Network Device
-* Test Board for Push-to-Talk Device
+* Test Board for Network Device
+* Test Board for Audio Device
 * Test Board for Embedded Computer
 * Mixed Signal Breakout Adapter
+* Cable Harness Design Process
 
 ## Mechanical Engineering
 * [Injection Molded Casio F-91W Case](/me/f91mold.md)
+* Ergonomic Linear Clamping Fixture
 
 ## Open Source
 Contributions made to open source projects:
@@ -40,8 +42,6 @@ Personal and volunteer robotics projects:
 
 ## Archive
 [Placeholder for a PDF upload of my undergrad class and internship portfolio]
-
-## [Project Ideas](/concepts/scratchpad.md)
 
 
 
