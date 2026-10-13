@@ -6,8 +6,8 @@ I hold a Masters in Computer Engineering from Dartmouth College and a Bachelors 
 # Projects Directory
 The following projects reflect a personal philosophy of learning by doing, and doing to help others. My interests span from system level design down to individual mechanical, electrical and software projects. At this stage in my career, I see myself as an engineering generalist capable of diving into technical and logistical details. 
 
-## Solo System Design Sprints (Embedded Systems and IoT)
-Solo projects that demonstrate full system development from component selection, programming (frontend and backend), testing and packaging:
+## Solo Design Sprints (Embedded Systems and IoT)
+Personal projects that demonstrate full system development skills from component selection, programming (frontend and backend), testing and packaging:
 * [Solar-Powered IoT Soil Moisture Monitor](/systems/soil.md)
 * [Low-Cost IoT Camera](/systems/homecam.md)
 
