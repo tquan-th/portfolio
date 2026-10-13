@@ -6,16 +6,16 @@ I hold a Masters in Computer Engineering from Dartmouth College and a Bachelors 
 # Projects Directory
 The following projects reflect a personal philosophy of learning by doing, and doing to help others. My interests span from system level design down to individual mechanical, electrical and software projects. At this stage in my career, I see myself as an engineering generalist capable of diving into technical and logistical details. 
 
+## Solo System Design Sprints (Embedded Systems and IoT)
+Solo projects that demonstrate full system development from component selection, programming (frontend and backend), testing and packaging:
+* [Solar-Powered IoT Soil Moisture Monitor](/systems/soil.md)
+* [Low-Cost IoT Camera](/systems/homecam.md)
+
 ## Hardware System Design
 Projects that integrate off-the-shelf and custom hardware, as to not recreate the wheel:
 * [Test Fixture for USB-C Bidirectional PD Charger](/systems/pd.md)
 * [Test Fixture for Software-Defined Radio (SDR)](/sdrqc.md)
 * [Home Lab Setup](/systems/homelab.md)
-
-## Solo System Design Sprints (Embedded Systems and IoT)
-Solo projects that demonstrate full system development from component selection, programming (frontend and backend), testing and packaging.
-* [Solar-Powered IoT Soil Moisture Monitor](/systems/soil.md)
-* [Low-Cost IoT Camera](/systems/homecam.md)
 
 ## Electrical Engineering
 Custom PCB designs used for programming, interfacing and mixed-signal QC of devices:
@@ -30,15 +30,15 @@ Custom PCB designs used for programming, interfacing and mixed-signal QC of devi
 * [Injection Molded Casio F-91W Case](/me/f91mold.md)
 * Ergonomic Linear Clamping Fixture
 
-## Open Source
-Contributions made to open source projects:
-* [Flipper One Development](/opensource/flipperone.md)
-
 ## Robotics
 Personal and volunteer robotics projects:
 * [TurtleBot Training](/robotics/turtlebot4.md)
 * Robot Arm Training
 * [FIRST Robotics Competition](/frc.md)
+
+## Open Source
+Contributions made to open source projects:
+* [Flipper One Development](/opensource/flipperone.md)
 
 ## Archive
 [Placeholder for a PDF upload of my undergrad class and internship portfolio]
