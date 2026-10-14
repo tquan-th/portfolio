@@ -8,8 +8,8 @@ The following projects reflect a personal philosophy of learning by doing, and d
 
 ## Solo Design Sprints (Embedded Systems and IoT)
 Personal projects that demonstrate full system development skills from component selection, programming (frontend and backend), testing and packaging:
-* [Solar-Powered IoT Soil Moisture Monitor](/systems/soil.md)
-* [Low-Cost IoT Camera](/systems/homecam.md)
+* [Solar-Powered Soil Moisture Monitor](/systems/soil.md)
+* [Low-Cost Remote Camera](/systems/homecam.md)
 
 ## Hardware System Design
 Projects that integrate off-the-shelf and custom hardware, as to not recreate the wheel:
