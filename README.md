@@ -34,7 +34,7 @@ Custom PCB designs used for programming, interfacing and mixed-signal QC of devi
 Personal and volunteer robotics projects:
 * [TurtleBot Training](/robotics/turtlebot4.md)
 * Robot Arm Training
-* [FIRST Robotics Competition](/frc.md)
+* [FIRST Robotics Competition](/robotics/frc.md)
 
 ## Open Source
 Contributions made to open source projects:
