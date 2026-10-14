@@ -1,9 +1,9 @@
 # Home Lab Setup
 
-## Purpose
-I'm experienced in a range of additive and subtractive manufacturing technologies, as well as electronics tools. The layout of my home lab is critical to the development and execution of projects.
+## Why Build a Home Lab?
+As a lover of technology, I've accumulated several additive and subtractive manufacturing machines, as well as electronics tools over the years. These capabilities allow me to exercise self sufficiency with minimal bottlenecks in executing personal projects. A thoughtful layout of the home lab is just as critical as its contents for efficiency and logistics.
 
-## Capabilities
+## Capabilities:
 
 ### 3D Printing
 * Prusa i3 MK3S (FDM)
@@ -18,9 +18,10 @@ I'm experienced in a range of additive and subtractive manufacturing technologie
 ### Electronics
 * Metcal Soldering Iron
 * Keysight DSOX1102G Oscilloscope and Signal Generator
-
+* Digilent Analog Discovery 3
 
 ### Automation
 * TurtleBot 4 Standard
+* Seeed Studios reBot Arm B601-RS (6 DOF)
 * Koyo Click PLC
 
