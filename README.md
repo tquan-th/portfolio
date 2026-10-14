@@ -23,7 +23,7 @@ Custom PCB designs used for programming, interfacing and mixed-signal QC of devi
 * Test Board for Audio Device
 * Test Board for Embedded Computer
 * Mixed Signal Breakout Adapter
-* Cable Harness Design Process
+* [Cable Harness Design Process](/ee/harness.md)
 
 ## Mechanical Engineering
 * [Injection Molded Casio F-91W Case](/me/f91mold.md)
